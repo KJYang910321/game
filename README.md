@@ -1,4 +1,2 @@
-# crazy programming team
 #經濟之國的闖關者
-總共有4個關卡可以闖關，玩家可以從遊戲中學習到許多經濟學的重要概念
-例如賽局，先手優勢，或是基本的經濟學理論
+# produced by crazy programming team
